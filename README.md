@@ -1,1 +1,1 @@
-# Scratchpad for AWS deployments using Terraform
+# Scratchpad for AWS and Azure deployments using Terraform
